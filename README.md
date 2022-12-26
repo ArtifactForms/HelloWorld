@@ -36,6 +36,17 @@ print("Hello, World!")
 line(15, 25, 70, 90);
 ```
 
+## C
+
+```
+#include<stdio.h>
+
+int main() {
+	printf("Hello, World!");
+	return 0;
+}
+```
+
 ## C++
 
 ```
