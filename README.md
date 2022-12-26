@@ -4,9 +4,9 @@
 
 ```
 class HelloWorld {
-    public static void main(String[] args) {
-        System.out.println("Hello, World!"); 
-    }
+  public static void main(String[] args) {
+    System.out.println("Hello, World!"); 
+  }
 }
 ```
 
@@ -20,7 +20,7 @@ console.log('Hello, World!');
 
 ```
 fun main(args : Array<String>) {
-    println("Hello, World!")
+  println("Hello, World!")
 }
 ```
 
@@ -42,8 +42,8 @@ line(15, 25, 70, 90);
 #include<stdio.h>
 
 int main() {
-	printf("Hello, World!");
-	return 0;
+  printf("Hello, World!");
+  return 0;
 }
 ```
 
@@ -53,7 +53,15 @@ int main() {
 #include <iostream>
 
 int main() {
-    std::cout << "Hello, World!";
-    return 0;
+  std::cout << "Hello, World!";
+  return 0;
+}
+```
+
+## Rust
+
+```
+fn main() {
+  println!("Hello World!");
 }
 ```
