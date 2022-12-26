@@ -1,0 +1,36 @@
+# HelloWorld
+
+## Java
+
+```
+class HelloWorld {
+    public static void main(String[] args) {
+        System.out.println("Hello, World!"); 
+    }
+}
+```
+
+## JavaScript
+
+```
+console.log('Hello, World!');
+```
+
+## Kotlin
+
+```
+fun main(args : Array<String>) {
+    println("Hello, World!")
+}
+```
+
+## Python
+
+```
+print("Hello, World!")
+```
+
+## Processing
+```
+line(15, 25, 70, 90);
+```
