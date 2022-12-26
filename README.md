@@ -42,7 +42,7 @@ line(15, 25, 70, 90);
 #include <iostream>
 
 int main() {
-    std::cout << "Hello World!";
+    std::cout << "Hello, World!";
     return 0;
 }
 ```
