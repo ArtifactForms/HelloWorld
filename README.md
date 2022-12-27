@@ -2,7 +2,7 @@
 
 ## Java
 
-```
+```java
 class HelloWorld {
   public static void main(String[] args) {
     System.out.println("Hello, World!"); 
@@ -12,13 +12,13 @@ class HelloWorld {
 
 ## JavaScript
 
-```
+```js
 console.log('Hello, World!');
 ```
 
 ## Kotlin
 
-```
+```kotlin
 fun main(args : Array<String>) {
   println("Hello, World!")
 }
@@ -26,19 +26,19 @@ fun main(args : Array<String>) {
 
 ## Python
 
-```
+```python
 print("Hello, World!")
 ```
 
 ## Processing
 
-```
+```java
 line(15, 25, 70, 90);
 ```
 
 ## C
 
-```
+```c
 #include<stdio.h>
 
 int main() {
@@ -49,7 +49,7 @@ int main() {
 
 ## C++
 
-```
+```cpp
 #include <iostream>
 
 int main() {
@@ -60,7 +60,7 @@ int main() {
 
 ## Rust
 
-```
+```rust
 fn main() {
   println!("Hello, World!");
 }
@@ -68,7 +68,7 @@ fn main() {
 
 ## C#
 
-```
+```c#
 namespace HelloWorld
 {
   class Hello {         
